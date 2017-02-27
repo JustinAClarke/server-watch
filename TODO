@@ -1,0 +1,15 @@
+get network load
+
+get network connections
+
+get top mem processers
+
+get top cpu processers
+
+log to sqlite file
+
+post to remote server
+
+build remote server, (symfony bundle?)
+
+
